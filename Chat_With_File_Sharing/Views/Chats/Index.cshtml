@@ -1,0 +1,128 @@
+﻿
+@{
+    ViewData["Title"] = "Chats";
+}
+
+<div>
+    <div class="row" id="displayUserName" style="display:none">
+        <div class="col-8 offset-4">
+            User Joined as <strong><span id="dName"></span></strong>
+        </div>
+    </div>
+    <div class="row" id="userArea" style="display:none">
+        <div class="col-12">
+            <div class="form-group row mt-3">
+                <label class="col-form-label col-2 text-end">User Name</label>
+                <div class="col-5">
+                    <div class="input-group">
+                        <input type="text" class="form-control" id="userName" placeholder="Please Enter Your Name">
+                        <button type="button" id="joinUser" class="btn btn-secondary">Join</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row my-2" id="userList" style="display:none">
+        <div class="col-2">
+            <h2>User List</h2>
+            <ul class="list-group" id="users" >
+                <li class="list-group-item"></li>
+            </ul>
+        </div>
+        <div class="col-8 offset-2" style="height:-70vh">
+            <div class="form-group row">
+                <div class="input-group">
+                    <input type="text" class="form-control" id="chatMessage" placeholder="Share what's in your mind...">
+                    <button type="button" id="sendBtn" class="btn btn-secondary"><img src="/libs/icon/send.png" /></button>
+                    <button type="button" id="browseBtn" class="btn btn-secondary">
+                    <i class="bi bi-paperclip" style="font-size: 30px; color: rgb(122 199 237); transform: rotate(20deg);"></i></button>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12 mt-2">
+                    <h3>Messages</h3>
+                </div>
+                <div class="col-12">
+                    <div id="chats" ></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<input type="file" id="imageUpload" style="display:none" accept=".jpg,.png,.gif" />
+
+@section scripts {
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+    <script src="~/libs/jquery/jquery.js"></script>
+    <script src="~/libs/signalr/signalr.js"></script>
+    <script>
+
+        var con = new signalR.HubConnectionBuilder().withUrl("/message").build();
+        var displayName = '';
+        con.on('Connected', (m) => {
+            $("#userArea").show();
+
+        });
+        con.on('Joined', (m) => {
+            $("#userArea").hide();
+            $("#displayUserName").show();
+            $("#userList").show();
+            $("#dName").html(displayName);
+        });
+        con.on('DuplicateUser', (m) => {
+            alert(m);
+        });
+        con.on('DisconnectedUser', (ex) => {
+            console.log("disconnected");
+        })
+        con.on('UpdateUsers', userList => {
+            $("#users").empty();
+            for (var i = 0; i < userList.length; i++) {
+
+                $("#users").append(
+
+                    `<li class='list-group-item text-primary'>${userList[i]}</li>`
+                );
+            }
+        });
+        con.on("Message", (u, m) => {
+            if (displayName == u) $("#chats").append(`<li class="list-group-item active mt-2 rounded" style="margin-right:300px">
+                                        <span style="color:bisque" class="fw-bold">${u}</span> : ${m}</li>`);
+            else $("#chats").append(`<li class="list-group-item mt-2 justify-content-end rounded" 
+                                        style="margin-left:300px;">
+                                        <span class="fw-bold" style="color:blue">${u}</span> : ${m}</li>`);
+        })
+        
+        con.start().then(() => {
+            $("#userArea").show();
+            $("#joinUser").click(() => {
+                displayName = $("#userName").val();
+                con.invoke("AddMe", displayName);
+                $("#userName").val('');
+            });
+            $('#sendBtn').click(() => {
+                if ($("#chatMessage").val() == "") return;
+                con.invoke("Send", displayName, $("#chatMessage").val());
+                $("#chatMessage").val("");
+            });
+            $('#browseBtn').click(() => {
+                $('#imageUpload').click();
+            });
+            $('#imageUpload').change(() => {
+                var file = document.getElementById("imageUpload").files[0];
+                console.log(file.name);
+                console.log(file.type);
+                var reader = new FileReader();
+                reader.onloadend = function () {
+                    var data = { filename: file.name, image: reader.result };
+                    con.invoke("Upload", displayName, data);
+                }
+                reader.readAsDataURL(file);
+
+            })
+        }).catch(err => {
+            console.log(err);
+        })
+    </script>
+}

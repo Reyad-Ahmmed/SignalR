@@ -1,0 +1,244 @@
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\appsettings.json
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\libman.json
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Chat_With_File_Sharing.exe
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Chat_With_File_Sharing.deps.json
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Chat_With_File_Sharing.runtimeconfig.json
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Chat_With_File_Sharing.runtimeconfig.dev.json
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Chat_With_File_Sharing.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Chat_With_File_Sharing.pdb
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Chat_With_File_Sharing.Views.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Chat_With_File_Sharing.Views.pdb
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.GeneratedMSBuildEditorConfig.editorconfig
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.AssemblyInfoInputs.cache
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.AssemblyInfo.cs
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.csproj.CoreCompileInputs.cache
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.MvcApplicationPartsAssemblyInfo.cache
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.RazorAssemblyInfo.cache
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.RazorAssemblyInfo.cs
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\staticwebassets\Chat_With_File_Sharing.StaticWebAssets.Manifest.cache
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\staticwebassets\Chat_With_File_Sharing.StaticWebAssets.xml
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\scopedcss\bundle\Chat_With_File_Sharing.styles.css
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.TagHelpers.input.cache
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.TagHelpers.output.cache
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.RazorCoreGenerate.cache
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Razor\Views\Chats\Index.cshtml.g.cs
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.RazorTargetAssemblyInfo.cache
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.RazorTargetAssemblyInfo.cs
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.Views.pdb
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.csproj.CopyComplete
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.dll
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.pdb
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.genruntimeconfig.cache
+H:\REYAD-1260660\Module 9\Homework\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.csproj.AssemblyReference.cache
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\appsettings.json
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\libman.json
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Chat_With_File_Sharing.exe
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Chat_With_File_Sharing.deps.json
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Chat_With_File_Sharing.runtimeconfig.json
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Chat_With_File_Sharing.runtimeconfig.dev.json
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Chat_With_File_Sharing.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Chat_With_File_Sharing.pdb
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Chat_With_File_Sharing.Views.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Chat_With_File_Sharing.Views.pdb
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.csproj.AssemblyReference.cache
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.GeneratedMSBuildEditorConfig.editorconfig
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.AssemblyInfoInputs.cache
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.AssemblyInfo.cs
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.csproj.CoreCompileInputs.cache
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.MvcApplicationPartsAssemblyInfo.cache
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.RazorAssemblyInfo.cache
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.RazorAssemblyInfo.cs
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\staticwebassets\Chat_With_File_Sharing.StaticWebAssets.Manifest.cache
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\staticwebassets\Chat_With_File_Sharing.StaticWebAssets.xml
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\scopedcss\bundle\Chat_With_File_Sharing.styles.css
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.TagHelpers.input.cache
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.TagHelpers.output.cache
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.RazorCoreGenerate.cache
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Razor\Views\Chats\Index.cshtml.g.cs
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.RazorTargetAssemblyInfo.cache
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.RazorTargetAssemblyInfo.cs
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.Views.pdb
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.csproj.CopyComplete
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.dll
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.pdb
+H:\REYAD-1260660\Course Project All\SignalR\SignalR Chat Sharing\1260660\Chat_With_File_Sharing\obj\Debug\netcoreapp3.1\Chat_With_File_Sharing.genruntimeconfig.cache

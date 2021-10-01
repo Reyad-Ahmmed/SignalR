@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/libs/bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <script src="~/libs/bootstrap/js/bootstrap.bundle.js"></script>
+    <style>
+        body{
+            padding-top:70px;
+            background-color:rgb(207 205 205)
+        }
+        .main{
+            min-height:calc(100vh - 140px);
+        }
+    </style>
+    @RenderSection("scripts",false)
+</head>
+<body>
+    <nav class="navbar navbar-light navbar-expand-md shadow fixed-top" style="background-color:rgb(238 238 224)">
+        <div class="container-fluid">
+            <span class="navbar-brand"><strong>Chatting Application</strong></span>
+            <div class="navbar-collapse collapse">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link" asp-controller="Home" asp-action="Index">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" asp-controller="Chats" asp-action="Index">Chat Room</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container-fluid main">
+        @RenderBody()
+    </div>
+    <hr />
+    <div class="container-fluid">
+        &copy; @DateTime.Now.Year Chat Application with SignalR 
+    </div>
+</body>
+</html>
